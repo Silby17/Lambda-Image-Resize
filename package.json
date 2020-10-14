@@ -1,0 +1,20 @@
+{
+  "name": "resize_sjca_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "aws-sdk": "^2.648.0",
+    "dotenv": "^8.2.0",
+    "gm": "^1.23.1",
+    "path": "^0.12.7",
+    "q": "^1.5.1",
+    "utils": "^0.3.1"
+  }
+}
